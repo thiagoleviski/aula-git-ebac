@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Thiago
+-Profissão: QA
+-Cidade: Campinas
+-O que faz nas horas vaga: Estudo Qualidade de Software EBAC e jogo flyff online
+-Feedback sobre o curso Qualidade de Software: Muito bom. Estou aprendendo muito.
+-Feedback sobre a plataforma de estudo da EBAC: Dinâmica e intuitiva. Muito boa.
+
+Obrigado!!!
+
+
